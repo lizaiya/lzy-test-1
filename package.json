@@ -1,0 +1,23 @@
+{
+  "name": "gulu-demo",
+  "version": "1.0.0",
+  "description": "这是学习的UI框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizaiya/lzy-test-1.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "lizaiya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lizaiya/lzy-test-1/issues"
+  },
+  "homepage": "https://github.com/lizaiya/lzy-test-1#readme"
+}
